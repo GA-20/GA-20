@@ -3,9 +3,15 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; text description
+
 🎓 &nbsp; text description
+
 🌱 &nbsp; text description
+
 ✍️ &nbsp; text description
+
 💬 &nbsp; text description
+
 ✉️ &nbsp; text description
+
 📄 &nbsp; Please have a look at my [Resume]().
