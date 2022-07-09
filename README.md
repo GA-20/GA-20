@@ -1,5 +1,7 @@
 <h2>Hey there! I'm Aditya</h2>
+
 <br />
+
 ### 👨🏻‍💻 &nbsp; About Me
 
 💡 &nbsp; text description
