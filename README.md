@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Julio</h2>
+<img alt="Night Coding" src="./assets/have.gif" width='40' align="left"/><h2> Hey there! I'm Julio</h2>
 
 <br />
 
