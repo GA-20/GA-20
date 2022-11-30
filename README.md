@@ -6,6 +6,13 @@
 - 💞️ I’m looking to collaborate and learn from others.
 - 📫 How to reach me: [email](mailto:juliocesarflores12@gmail.com) or [linkedin](https://www.linkedin.com/in/julio-flores-0631bb184/).
 
+## I'm currently using
+
+- Frontend: Typescript, React, NextJS, Styled Components, Material UI, Ant Design.
+- Backend: Python/Django, NodeJS/Express, Golang/Gin, Serverless.
+- Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Elasticsearch/OpenSearch.
+- Cloud: Amazon Web Services (S3, Amplify, EC2, Lambda, API Gateway, CloudFront, Route53, CloudWatch, CloudFormation, IAM, etc)  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julio-flores-0631bb184) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0riion)
 
