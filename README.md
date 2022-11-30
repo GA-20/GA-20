@@ -9,7 +9,7 @@
 # I'm currently using
 
 ```python
-FRONTEND = [
+frontend = [
   "Typescript",
   "React",
   "NextJS",
@@ -22,7 +22,7 @@ FRONTEND = [
 <hr>
 
 ```javascript
-const BACKEND = [
+const backend = [
   "Python/Django",
   "NodeJS/Express",
   "Golang/Gin",
@@ -33,7 +33,7 @@ const BACKEND = [
 <hr>
 
 ```golang
-DATABASES := [4]string{
+const databases := [4]string{
   "PostgreSQL",
   "MongoDB",
   "Redis",
@@ -44,7 +44,7 @@ DATABASES := [4]string{
 <hr>
 
 ```yml
-CLOUD :
+cloud:
   "AWS",
   "GCP",
   "Azure"
