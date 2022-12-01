@@ -45,9 +45,7 @@ const databases := [4]string{
 
 ```yml
 cloud:
-  "AWS",
-  "GCP",
-  "Azure"
+  "AWS"
 ```
 
 ## 🌐 Socials:
