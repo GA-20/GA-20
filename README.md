@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 👋 Hi, I’m @0riion
+- 👋 Hi, I’m @GA-20
 - 👀 I’m interested in cybersecurity, cloud computing and backend development.
 - 🌱 I’m currently deepening my knowledge in aws, docker, and linux.
 - 💞️ I’m looking to collaborate and learn from others.
